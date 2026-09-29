@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:54:22.348Z",
+  "generated_at": "2026-09-29T06:17:49.811Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "path": "problems/0100-implement-the-softsign-activation-function",
       "first_solved_at": "2026-09-29T05:54:21.593Z",
       "last_pushed_at": "2026-09-29T05:54:21.593Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-09-29T06:17:49.047Z",
+      "last_pushed_at": "2026-09-29T06:17:49.047Z",
       "language": "python",
       "lines": 4
     }
