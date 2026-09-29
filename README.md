@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 7 problems · 1 labs · 0 math
+**9** solved · 8 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-29 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-09-29 | [solution](problems/1460-customers-who-never-placed-an-order) |
+| [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-09-29 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-29 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-29 | [solution](problems/0003-reshape-matrix) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-29 | [solution](problems/0024-single-neuron) |
