@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 16 problems · 1 labs · 0 math
+**18** solved · 17 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-29 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-09-29 | [solution](problems/1460-customers-who-never-placed-an-order) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-09 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-16 | [solution](problems/0046-implement-precision-metric) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-09-29 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-09-29 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-08-21 | [solution](problems/0014-linear-regression-using-normal-equation) |
